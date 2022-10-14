@@ -1,2 +1,2 @@
-# magento2-blog-extension
-look at the repo name...
+# Magento toturial Blog
+Blog extension for Magento 2
